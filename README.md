@@ -9,20 +9,3 @@ Welcome to my Github profile! I am a passionate Systems Engineer with a deep int
 
 # 📊 GitHub Stats:
 <!-- Aquí puedes actualizar tus estadísticas de GitHub para incluir tus contribuciones privadas. -->
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JuanMudi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 🐦 Latest Tweet
-<!-- Aquí puedes personalizar tu tarjeta de Tweet más reciente para que coincida con el resto de tu perfil. -->
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=JuanMudi&icon=2&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
