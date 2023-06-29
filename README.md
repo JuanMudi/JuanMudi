@@ -7,7 +7,7 @@ Welcome to my Github profile! I am a passionate Systems Engineer with a deep int
 # 💻 Tech Stack:
 
 ## Languages:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![C++](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=c++)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 
