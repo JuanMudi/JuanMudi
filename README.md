@@ -23,6 +23,3 @@ Welcome to my Github profile! I am a passionate Systems Engineer with a deep int
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
-
-# 📊 GitHub Stats:
-<!-- Aquí puedes actualizar tus estadísticas de GitHub para incluir tus contribuciones privadas. -->
